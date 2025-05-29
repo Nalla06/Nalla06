@@ -47,22 +47,31 @@ My projects reflect practical solutions—deploying microservices, containerizin
 ## 🛠 Tech Stack & Tools
 ☁️ Cloud Platforms:
 AWS, Azure
+
 🛠 CI/CD & Automation Tools:
 Jenkins, GitHub Actions, GitLab CI/CD, Azure DevOps, ArgoCD
+
 🐳 Containers & Orchestration:
 Docker, Kubernetes, Helm
+
 📦 Infrastructure as Code (IaC):
 Terraform, Ansible
+
 🔐 Security & Compliance:
 Trivy, Snyk, SonarQube, HashiCorp Vault, AWS Secrets Manager
+
 📊 Monitoring & Logging:
 Prometheus, Grafana
+
 🧪 Testing & Quality:
 OWASP Dependency Check, SonarQube
+
 🔁 Version Control & Artifacts:
 Git, Nexus
+
 💻 Scripting & Programming:
 Bash, Shell, Python, PowerShell
+
 🧰 Other Tools & Practices:
 Linux, Jira, Agile Methodologies
 
