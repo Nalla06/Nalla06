@@ -12,7 +12,7 @@ I'm a motivated DevOps Engineer with hands-on experience in cloud automation, co
 My projects reflect practical solutions—deploying microservices, containerizing apps, automating CI/CD pipelines, and implementing serverless architectures on AWS. I believe in building scalable, secure, and highly available systems from the ground up.
 
 ## 🛠️ Tech Stack & Tools
-🚀 CI/CD & Automation
+#### 🚀 CI/CD & Automation
 Jenkins, GitHub Actions, GitLab CI/CD, ArgoCD
 
 🐳 Containerization & Orchestration
