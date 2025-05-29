@@ -1,42 +1,76 @@
-#                 Hi there! 👋 I'm Lakshmi Rajyam Nalla
+# 👋 Hi there! I'm Lakshmi Rajyam Nalla
 
-👩‍💻 **Cloud & DevOps Engineer** | 2x AWS Certified  
-📍 Currently based in Stuttgart Region, Germany  
-💬 I enjoy automating, optimizing, and scaling cloud infrastructure  
-🌱 Lifelong learner | B2 German Speaker 🇩🇪
+
+🎯 **Cloud & DevOps Engineer** | 🏅 2x AWS Certified  
+📍 Based in Stuttgart Region, Germany 🇩🇪 | Fluent in English | B2 Level German Speaker  
+⚙️ Automating Infrastructure | Scaling Cloud Solutions | Enabling CI/CD Workflows  
+🔄 Currently exploring: Serverless Architectures, Advanced Kubernetes Patterns
 
 ## 🔍 About Me
 
-I'm a motivated DevOps Engineer with hands-on experience in cloud automation, container orchestration, and CI/CD workflows. I specialize in solving real-world infrastructure challenges using modern DevOps practices and tools.
+I’m a passionate and results-driven **DevOps Engineer** with 2–3 years of hands-on experience in:
 
-My projects reflect practical solutions—deploying microservices, containerizing apps, automating CI/CD pipelines, and implementing serverless architectures on AWS. I believe in building scalable, secure, and highly available systems from the ground up.
+- Designing and implementing **CI/CD pipelines**
+- Managing **containerized applications**
+- Building **cloud-native infrastructure** using Terraform and Ansible
+- Deploying scalable **microservices** and **serverless** systems on AWS and Azure
+
+
+My projects reflect practical solutions—deploying microservices, containerizing applications, automating CI/CD pipelines, and implementing serverless architectures on AWS. I believe in building scalable, secure, and highly available systems from the ground up, while fostering a culture of collaboration and continuous improvement.
+---
+
+## 🔨 Projects & What I’ve Learned
+
+### 🎬 [Microservices Deployment on AWS EKS with Rancher](https://github.com/Nalla06/Microservices-deploy-EKS-Rancher.git)
+- Deployed a multi-microservice architecture on Amazon EKS, managed via Rancher for robust Kubernetes management.
+- Implemented nightly and weekly Jenkins pipelines for:
+    - Nightly build, test, and scan of all services
+    - Weekly image cleanup, version check, and report generation
+- **Skills**: Jenkins, Docker, Kubernetes, Ansible, Monitoring , Promotheus, Grafana, Terraform
+
+### 🛒 [ Cloud Serverless Project](https://github.com/Nalla06/Cloud-Serverless-Project-Terraform.git)
+- Deployed a fully serverless React app using AWS Lambda, DynamoDB, API Gateway, Cognito, and Stripe
+- Provisioned infrastructure using **Terraform**
+- **Skills**: AWS Serverless, Terraform, Cognito Auth, Stripe Integration
+
+### 🎮 [End-to-End 3-Tier DevSecOps Project](https://github.com/Nalla06/End-to-End-3-tier-DevSecops-Project.git)
+- Used **Terraform** to provision EKS
+- Implemented Jenkins Actions for automated deployments
+- **Skills**: Terraform, EKS, Kubernetes Manifests , CI/CD, Docker, Argocd
+
+### 📈 [Amazon Clone with DevSecOps](https://github.com/Nalla06/amazon-clone-cicd-argo.git)
+- Full CI/CD pipeline with Jenkins, Docker, SonarQube, Trivy, and OWASP checks
+- Automated scans, build, test, and deployment stages with Slack/email alerts
+- **Skills**: Jenkins, Docker, Security Tools, Ansible, Monitoring
+
+---
 
 ## 🛠️ Tech Stack & Tools
-#### 🚀 CI/CD & Automation
-Jenkins, GitHub Actions, GitLab CI/CD, ArgoCD
 
-#### 🐳 Containerization & Orchestration
-Docker, Kubernetes, Helm Charts
+### 🚀 CI/CD & Automation
+`Jenkins` • `GitHub Actions` • `GitLab CI/CD` • `ArgoCD`
 
-#### ☁️ Cloud & Infrastructure as Code
-AWS, Terraform, Ansible
+### 🐳 Containers & Orchestration
+`Docker` • `Kubernetes` • `Helm Charts`
 
-Azure DevOps (Pipelines, Repos), Azure Blob Storage, Azure VMs, Azure Resource Groups
+### ☁️ Cloud & IaC
+`AWS` • `Azure` • `Terraform` • `Ansible`  
+`Azure DevOps (Pipelines, Repos)` • `Azure Blob Storage` • `Azure VMs` • `Resource Groups`
 
-#### 📊 Monitoring, Security & Quality
-Prometheus, Grafana, SonarQube
+### 📊 Monitoring, Security & Quality
+`Prometheus` • `Grafana` • `SonarQube`  
+`Trivy` • `Snyk` • `Vault` • `AWS Secrets Manager`
 
-Trivy, Snyk, Vault (HashiCorp), AWS Secrets Manager
+### 📁 Version Control & Repository Management
+`Git` • `Nexus`
 
-#### 🔄 Version Control & Repository Management
-Git, Nexus
+### 💻 Scripting & Development
+`Bash/Shell` • `Python` • `PowerShell`
 
-#### 💻 Scripting & Development
-Bash/Shell, Python, PowerShell
+### 🔧 Other Tools & Practices
+`Linux` • `Jira` • `Agile Methodologies`
 
-#### 🧰 Other Tools & Practices
-Linux, Jira, Agile Methodologies
-
+---
 
 
 ## 🌐 Let's Connect
