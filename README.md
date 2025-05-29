@@ -1,5 +1,4 @@
-## Hi there 👋
-I'm Lakshmi Rajyam Nalla
+Hi there! 👋 I'm Lakshmi Rajyam Nalla
 
 👩‍💻 **Cloud & DevOps Engineer** | 2x AWS Certified  
 📍 Currently based in Stuttgart Region, Germany  
