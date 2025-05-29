@@ -14,6 +14,7 @@ I’m a passionate and results-driven **DevOps Engineer** with 2–3 years of ha
 - Managing **containerized applications**
 - Building **cloud-native infrastructure** using Terraform and Ansible
 - Deploying scalable **microservices** and **serverless** systems on AWS and Azure
+
 My projects reflect practical solutions—deploying microservices, containerizing applications, automating CI/CD pipelines, and implementing serverless architectures on AWS. I believe in building scalable, secure, and highly available systems from the ground up, while fostering a culture of collaboration and continuous improvement.
 ---
 
