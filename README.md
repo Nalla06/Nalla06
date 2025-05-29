@@ -44,30 +44,27 @@ My projects reflect practical solutions—deploying microservices, containerizin
 
 ---
 
-## 🛠️ Tech Stack & Tools
-
-### 🚀 CI/CD & Automation
-`Jenkins` • `GitHub Actions` • `GitLab CI/CD` • `ArgoCD`
-
-### 🐳 Containers & Orchestration
-`Docker` • `Kubernetes` • `Helm Charts`
-
-### ☁️ Cloud & IaC
-`AWS` • `Azure` • `Terraform` • `Ansible`  
-`Azure DevOps (Pipelines, Repos)` • `Azure Blob Storage` • `Azure VMs` • `Resource Groups`
-
-### 📊 Monitoring, Security & Quality
-`Prometheus` • `Grafana` • `SonarQube`  
-`Trivy` • `Snyk` • `Vault` • `AWS Secrets Manager`
-
-### 📁 Version Control & Repository Management
-`Git` • `Nexus`
-
-### 💻 Scripting & Development
-`Bash/Shell` • `Python` • `PowerShell`
-
-### 🔧 Other Tools & Practices
-`Linux` • `Jira` • `Agile Methodologies`
+## 🛠 Tech Stack & Tools
+☁️ Cloud Platforms:
+AWS, Azure
+🛠 CI/CD & Automation Tools:
+Jenkins, GitHub Actions, GitLab CI/CD, Azure DevOps, ArgoCD
+🐳 Containers & Orchestration:
+Docker, Kubernetes, Helm
+📦 Infrastructure as Code (IaC):
+Terraform, Ansible
+🔐 Security & Compliance:
+Trivy, Snyk, SonarQube, HashiCorp Vault, AWS Secrets Manager
+📊 Monitoring & Logging:
+Prometheus, Grafana
+🧪 Testing & Quality:
+OWASP Dependency Check, SonarQube
+🔁 Version Control & Artifacts:
+Git, Nexus
+💻 Scripting & Programming:
+Bash, Shell, Python, PowerShell
+🧰 Other Tools & Practices:
+Linux, Jira, Agile Methodologies
 
 ---
 
