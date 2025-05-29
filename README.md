@@ -11,15 +11,33 @@ I'm a motivated DevOps Engineer with hands-on experience in cloud automation, co
 
 My projects reflect practical solutions—deploying microservices, containerizing apps, automating CI/CD pipelines, and implementing serverless architectures on AWS. I believe in building scalable, secure, and highly available systems from the ground up.
 
-## ⚒️ What I Work With
+## 🛠️ Tech Stack & Tools
+🚀 CI/CD & Automation
+Jenkins, GitHub Actions, GitLab CI/CD, ArgoCD
 
-- ☁️ **Cloud**: AWS (Certified), Azure  
-- 🔧 **CI/CD**: Jenkins, GitHub Actions  
-- 🧱 **IaC**: Terraform, Ansible  
-- 🐳 **Containers**: Docker, Kubernetes  
-- 📈 **Monitoring**: Prometheus, Grafana, Node Exporter  
-- 🛡️ **Security**: Trivy, OWASP Dependency-Check  
-- 💻 **Scripting**: Bash, YAML, Python  
+🐳 Containerization & Orchestration
+Docker, Kubernetes, Helm Charts
+
+☁️ Cloud & Infrastructure as Code
+AWS, Terraform, Ansible
+
+Azure DevOps (Pipelines, Repos), Azure Blob Storage, Azure VMs, Azure Resource Groups
+
+📊 Monitoring, Security & Quality
+Prometheus, Grafana, SonarQube
+
+Trivy, Snyk, Vault (HashiCorp), AWS Secrets Manager
+
+🔄 Version Control & Repository Management
+Git, Nexus
+
+💻 Scripting & Development
+Bash/Shell, Python, PowerShell
+
+🧰 Other Tools & Practices
+Linux, Jira, Agile Methodologies
+
+
 
 ## 🌐 Let's Connect
 
