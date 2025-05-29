@@ -1,16 +1,29 @@
 ## Hi there 👋
+I'm Lakshmi Rajyam Nalla
 
-<!--
-**Nalla06/Nalla06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 **Cloud & DevOps Engineer** | 2x AWS Certified  
+📍 Currently based in Stuttgart Region, Germany  
+💬 I enjoy automating, optimizing, and scaling cloud infrastructure  
+🌱 Lifelong learner | B2 German Speaker 🇩🇪
 
-Here are some ideas to get you started:
+## 🔍 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a motivated DevOps Engineer with hands-on experience in cloud automation, container orchestration, and CI/CD workflows. I specialize in solving real-world infrastructure challenges using modern DevOps practices and tools.
+
+My projects reflect practical solutions—deploying microservices, containerizing apps, automating CI/CD pipelines, and implementing serverless architectures on AWS. I believe in building scalable, secure, and highly available systems from the ground up.
+
+## ⚒️ What I Work With
+
+- ☁️ **Cloud**: AWS (Certified), Azure  
+- 🔧 **CI/CD**: Jenkins, GitHub Actions  
+- 🧱 **IaC**: Terraform, Ansible  
+- 🐳 **Containers**: Docker, Kubernetes  
+- 📈 **Monitoring**: Prometheus, Grafana, Node Exporter  
+- 🛡️ **Security**: Trivy, OWASP Dependency-Check  
+- 💻 **Scripting**: Bash, YAML, Python  
+
+## 🌐 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/lakshmirajyam-nalla)
+- 💻 [GitHub]( https://github.com/Nalla06)
+- ✍️ [Blog](https://blog.nallalakshmirajyam.click)
