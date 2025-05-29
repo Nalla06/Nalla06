@@ -15,26 +15,26 @@ My projects reflect practical solutions—deploying microservices, containerizin
 #### 🚀 CI/CD & Automation
 Jenkins, GitHub Actions, GitLab CI/CD, ArgoCD
 
-🐳 Containerization & Orchestration
+#### 🐳 Containerization & Orchestration
 Docker, Kubernetes, Helm Charts
 
-☁️ Cloud & Infrastructure as Code
+#### ☁️ Cloud & Infrastructure as Code
 AWS, Terraform, Ansible
 
 Azure DevOps (Pipelines, Repos), Azure Blob Storage, Azure VMs, Azure Resource Groups
 
-📊 Monitoring, Security & Quality
+#### 📊 Monitoring, Security & Quality
 Prometheus, Grafana, SonarQube
 
 Trivy, Snyk, Vault (HashiCorp), AWS Secrets Manager
 
-🔄 Version Control & Repository Management
+#### 🔄 Version Control & Repository Management
 Git, Nexus
 
-💻 Scripting & Development
+#### 💻 Scripting & Development
 Bash/Shell, Python, PowerShell
 
-🧰 Other Tools & Practices
+#### 🧰 Other Tools & Practices
 Linux, Jira, Agile Methodologies
 
 
