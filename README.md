@@ -4,7 +4,7 @@
 🎯 Aspiring Cloud & DevOps Engineer | 🏅 AWS Certified (2x) & Azure Certified  
 📍 Stuttgart Region, Germany 🇩🇪 | Fluent in English | B2-Level German  
 ⚙️ Learning to automate infrastructure, build cloud solutions & set up CI/CD pipelines
-🔄 Currently focused on cloud-native technologies and preparing for CKA/CKAD certifications.
+🔄 Currently exploring cloud-native tech | Preparing for CKA & CKAD
 
 # 🔍 About Me
 
