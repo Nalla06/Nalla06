@@ -14,13 +14,13 @@ To gain practical experience, I took on a remote opportunity with Niyotech (USA)
 
 In parallel, I earned the following certifications to validate and deepen my cloud knowledge:
 
-🏅 AWS Certified Cloud Practitioner
+##### 🏅 AWS Certified Cloud Practitioner
 
-🏅 AWS Certified Solutions Architect – Associate
+##### 🏅 AWS Certified Solutions Architect – Associate
 
-🏅 Microsoft Certified: Azure Administrator Associate (AZ-104)
+##### 🏅 Microsoft Certified: Azure Administrator Associate (AZ-104)
 
-Through this learning journey, I also developed and documented hands-on mini projects, including:
+#### Through this learning journey, I also developed and documented hands-on mini projects, including:
 
 - Automating EC2, S3, IAM setups on AWS
 - Writing Terraform scripts for VPC, EKS, and other infrastructure components
@@ -41,7 +41,7 @@ Additionally, I'm exploring Azure cloud services, using Terraform to automate de
 
 I’ve also implemented several self-driven projects and shared them on both my GitHub and technical blog, where I document how I approached each use case in detail.
 
-I’ve developed foundational, hands-on knowledge in tools like:
+#### I’ve developed foundational, hands-on knowledge in tools like:
 
 - Version control & collaboration: Git, GitHub, GitLab
 - CI/CD & GitOps: Jenkins, GitHub Actions, GitLab CI/CD, Argo CD
@@ -54,26 +54,18 @@ I’ve developed foundational, hands-on knowledge in tools like:
 
 Through hands-on projects, remote internships, and ongoing self-learning, I’m continuously building practical experience and growing confidence in using these tools effectively across cloud and DevOps workflows.
 
-🤝 What I’m Looking For
+### 🤝 What I’m Looking For
+
 I’m now looking to collaborate with a team where I can contribute, learn, and grow further as a Cloud/DevOps Engineer. My main goal is to automate infrastructure and CI/CD pipelines, improve deployment workflows, and ensure reliability in cloud environments. I'm especially interested in working in an environment that encourages continuous improvement, mentorship, and hands-on problem-solving.
 
 I'm a:
-✅ Continuous learner
-✅ Self-motivated professional
-✅ Reliable and adaptable team player
-
-📌 Pinned Projects
-
-Some of the projects I worked on (along with screenshots and documentation) are pinned below in my GitHub. They include real implementations of the concepts I've learned, such as:
-
-- Microservices deployments
-- CI/CD pipeline setups
-- DevSecOps integration
-- Serverless and containerized applications
-
-👉 Please scroll down and check them out!
+-  Continuous learner
+-  Self-motivated professional
+-  Reliable and adaptable team player
 
 ## 🔨 Projects & What I’ve Learned
+
+##### 👉 Please scroll down and check them out!
 
 ### 🎬 [Microservices Deployment on AWS EKS with Rancher](https://github.com/Nalla06/Microservices-deploy-EKS-Rancher.git)
 - Worked on deploying a multi-microservice application on AWS EKS using Rancher for easier Kubernetes management.
