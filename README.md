@@ -1,10 +1,10 @@
 # 👋 Hi there! I'm Lakshmi Rajyam Nalla
 
 
-🎯 Aspiring Cloud & DevOps Engineer | 🏅 AWS Certified (2x) & Azure Certified  
-📍 Stuttgart Region, Germany 🇩🇪 | Fluent in English | B2-Level German  
-⚙️ Learning to automate infrastructure, build cloud solutions & set up CI/CD pipelines
-🔄 Currently exploring cloud-native tech | Preparing for CKA & CKAD
+- 🎯 Aspiring Cloud & DevOps Engineer | 🏅 AWS Certified (2x) & Azure Certified  
+- 📍 Stuttgart Region, Germany 🇩🇪 | Fluent in English | B2-Level German  
+- ⚙️ Learning to automate infrastructure, build cloud solutions & set up CI/CD pipelines
+- 🔄 Currently exploring cloud-native tech | Preparing for CKA & CKAD
 
 # 🔍 About Me
 
