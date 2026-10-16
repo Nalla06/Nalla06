@@ -1,85 +1,69 @@
-# 👋 Hi there! I'm Lakshmi Rajyam Nalla
+
+# Hi, I'm Lakshmi Rajyam Nalla 👋
+
+### IT System Administration | Windows, Linux & Cloud Infrastructure
 
 
-🎯 **Cloud & DevOps Engineer** | 🏅 2x AWS Certified  
-📍 Based in Stuttgart Region, Germany 🇩🇪 | Fluent in English | B2 Level German Speaker  
-⚙️ Automating Infrastructure | Scaling Cloud Solutions | Enabling CI/CD Workflows  
-🔄 Currently exploring: Serverless Architectures, Advanced Kubernetes Patterns
+IT professional with technical training in IT infrastructure and cloud technologies, internship experience in cloud support, and hands-on experience gained through practical labs and independent projects. My technical interests include Windows and Linux administration, networking, virtualisation, hybrid cloud environments, infrastructure configuration and automation.
 
-## 🔍 About Me
+📍 Stuttgart Region, Germany
 
-I’m a passionate and results-driven **DevOps Engineer** with 2–3 years of hands-on experience in:
+## Technical Skills
 
-- Designing and implementing **CI/CD pipelines**
-- Managing **containerized applications**
-- Building **cloud-native infrastructure** using Terraform and Ansible
-- Deploying scalable **microservices** and **serverless** systems on AWS and Azure
+- **Windows Administration:** Windows Server, Windows 11, Active Directory, user and group management, Group Policy fundamentals
+- **Linux Administration:** Command-line operations, users and permissions, service management fundamentals and troubleshooting
+- **Networking:** TCP/IP, DNS, DHCP, IP addressing and basic network troubleshooting
+- **Virtualisation:** VMware Workstation, VirtualBox and virtual machine administration
+- **Cloud Technologies:** Foundational knowledge of Microsoft Azure and AWS
+- **Scripting & Tools:** PowerShell, Bash, basic Python and Git
 
-My projects reflect practical solutions—deploying microservices, containerizing applications, automating CI/CD pipelines, and implementing serverless architectures on AWS. I believe in building scalable, secure, and highly available systems from the ground up, while fostering a culture of collaboration and continuous improvement.
+## Selected Projects
 
+### Windows Server & Active Directory Administration
+[View Project](https://github.com/Nalla06/Windows-Server-Active-Directory)
 
-## 🔨 Projects & What I’ve Learned
+A practical lab simulating common Windows Server administration tasks in a company environment.
 
-### 🎬 [Microservices Deployment on AWS EKS with Rancher](https://github.com/Nalla06/Microservices-deploy-EKS-Rancher.git)
-- Deployed a multi-microservice architecture on Amazon EKS, managed via Rancher for robust Kubernetes management.
-- Implemented nightly and weekly Jenkins pipelines for:
-    - Nightly build, test, and scan of all services
-    - Weekly image cleanup, version check, and report generation
-- **Skills**: Jenkins, Docker, Kubernetes, Ansible, Monitoring , Promotheus, Grafana, Terraform
+- Active Directory domain and organisational unit configuration
+- User accounts, security groups and access management
+- DNS and domain networking
+- Group Policy configuration and administration
+- PowerShell-based administrative tasks
+- Technical documentation, validation and troubleshooting
 
-### 🛒 [ Cloud Serverless Project](https://github.com/Nalla06/Cloud-Serverless-Project-Terraform.git)
-- Deployed a fully serverless React app using AWS Lambda, DynamoDB, API Gateway, Cognito, and Stripe
-- Provisioned infrastructure using **Terraform**
-- **Skills**: AWS Serverless, Terraform, Cognito Auth, Stripe Integration
+### Cloud Infrastructure & Automation
+[Explore DevOps Projects](https://github.com/Nalla06/Portofolio-of-Devops-Projects)
 
-### 🎮 [End-to-End 3-Tier DevSecOps Project](https://github.com/Nalla06/End-to-End-3-tier-DevSecops-Project.git)
-- Used **Terraform** to provision EKS
-- Implemented Jenkins Actions for automated deployments
-- **Skills**: Terraform, EKS, Kubernetes Manifests , CI/CD, Docker, Argocd
+Projects completed during my cloud and automation learning, covering AWS, Terraform, Docker, Kubernetes and CI/CD fundamentals.
 
-### 📈 [Amazon Clone with DevSecOps](https://github.com/Nalla06/amazon-clone-cicd-argo.git)
-- Full CI/CD pipeline with Jenkins, Docker, SonarQube, Trivy, and OWASP checks
-- Automated scans, build, test, and deployment stages with Slack/email alerts
-- **Skills**: Jenkins, Docker, Security Tools, Ansible, Monitoring
+## Training & Certifications
 
----
+**Technical Training**
+- **Windows Server Administration:** Windows Server, Active Directory and Group Policy fundamentals
+- **IT Infrastructure & Cloud Technologies:** Linux, networking, virtualisation, AWS and Azure fundamentals, with exposure to DevOps tools and automation.
 
-## 🛠 Tech Stack & Tools
-☁️ Cloud Platforms:
-AWS, Azure
+**Certifications**
+- Microsoft Certified: Azure Administrator Associate (AZ-104)
+- AWS Certified Solutions Architect – Associate
+- AWS Certified Cloud Practitioner
 
-🛠 CI/CD & Automation Tools:
-Jenkins, GitHub Actions, GitLab CI/CD, Azure DevOps, ArgoCD
+## 🌐 Languages
 
-🐳 Containers & Orchestration:
-Docker, Kubernetes, Helm
+- **English:** Fluent
+- **German:** B2 (telc-certified)
 
-📦 Infrastructure as Code (IaC):
-Terraform, Ansible
+## Career Interests
 
-🔐 Security & Compliance:
-Trivy, Snyk, SonarQube, HashiCorp Vault, AWS Secrets Manager
+Interested in opportunities involving:
 
-📊 Monitoring & Logging:
-Prometheus, Grafana
+- IT System Administration
+- Windows & Linux Infrastructure
+- IT Operations and Technical Support
+- Cloud Infrastructure and Hybrid Environments
 
-🧪 Testing & Quality:
-OWASP Dependency Check, SonarQube
+I value structured troubleshooting, reliable infrastructure, clear technical documentation and continuous learning. My goal is to contribute to an IT team while building further practical experience in enterprise infrastructure and cloud operations.
 
-🔁 Version Control & Artifacts:
-Git, Nexus
+## Connect
 
-💻 Scripting & Programming:
-Bash, Shell, Python, PowerShell
+- [GitHub Repositories](https://github.com/Nalla06?tab=repositories)
 
-🧰 Other Tools & Practices:
-Linux, Jira, Agile Methodologies
-
----
-
-
-## 🌐 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/lakshmirajyam-nalla)
-- 💻 [GitHub]( https://github.com/Nalla06)
-- ✍️ [Blog](https://blog.nallalakshmirajyam.click)
